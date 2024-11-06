@@ -1,0 +1,14 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript bootcamp",
+  "main": "01_why_typescript.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "dhananjay bhatkar",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
